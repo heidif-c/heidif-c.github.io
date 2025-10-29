@@ -10,11 +10,11 @@
     display:flex;
       flex-wrap:wrap;} 
 .project {
-width: 30%;
-margin: 10px;
+width: 40%;
+margin: 20px;
 padding: 20px 10px;
 background: rgb(181, 181, 229); /* pick a color */
-border-radius: 25%;
+border-radius: 30%;
 }
 .project img{
 width: 300px;
