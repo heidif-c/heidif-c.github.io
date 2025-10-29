@@ -8,8 +8,7 @@
  }
 .projects {
     display:flex;
-      flex-wrap:wrap; 
-} 
+      flex-wrap:wrap;} 
 .project {
 width: 30%;
 margin: 10px;
