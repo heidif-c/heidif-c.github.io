@@ -20,7 +20,7 @@ border-radius: 30%;
 width: 300px;
 height: 400px;
 margin: 10px;
-border: 2px solid rgb(126, 14, 201); /* choose a color */
+border: 8px solid rgb(126, 14, 201); /* choose a color */
 display: block;
 margin: auto;
 }
