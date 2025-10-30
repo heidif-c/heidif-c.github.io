@@ -37,3 +37,15 @@ text-align: center;
 margin: 15px;
 max-width: 300px;
 }
+.project{
+   box-sizing:border-box;
+   text-align: center;
+   overflow-wrap: break-word;
+   word-break: break-word;
+   overflow: hidden;
+}
+.project p{
+   max-width: 90%;
+   margin: 15px auto;
+   line-height: 1.4;
+}
